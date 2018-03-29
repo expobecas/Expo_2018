@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="../../../../web/css/style_empresa.css" type="text/css">
 <!--Let browser know website is optimized for mobile-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Alumnos Becados</title>
+<title>Alumno Becado</title>
 </head>
 <body>
 <header>
