@@ -46,16 +46,6 @@ body{
     font-size: 28px;
     text-align: center;
 }
-.encabezado{
-    font-family: 'merriweatherblack', serif;
-}
-@font-face {
-    font-family: 'merriweatherblack';
-    src: url('web/fonts/mifont/merriweather-black.woff2') format('woff2'),
-         url('web/fonts/mifont/merriweather-black.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
 /*Fondo de tablas y expedientes*/
 .tabla_casos, .expediente{
    background-color: #ffffff;
