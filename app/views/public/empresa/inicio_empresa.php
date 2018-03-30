@@ -25,24 +25,23 @@
 		<a href="#!email"><span class="white-text email">info@ricaldone.edu.sv</span></a>
 	</div>
 	</li>
-	<li><a href="inicio_empresa.php" class="white-text"><i class="material-icons white-text">home</i>Inicio</a></li>
-	<li><a href="casos.php" class="white-text"><i class="material-icons white-text">folder</i>Casos</a></li>
-	<li><a href="becados.php" class="white-text"><i class="material-icons white-text">group</i>Alumnos becados</a></li>
-	<li><a href="#!" class="white-text"><i class="material-icons white-text">close</i>Cerrar Sesión</a></li>
-        
+	<li><a href="inicio_empresa.php" class="white-text"><i class="material-icons white-text">home</i>INICIO</a></li>
+	<li><a href="casos.php" class="white-text"><i class="material-icons white-text">folder</i>CASOS</a></li>
+	<li><a href="becados.php" class="white-text"><i class="material-icons white-text">group</i>ALUMNOS BECADOS</a></li>
+	<li><a href="#!" class="white-text"><i class="material-icons white-text">close</i>CERRAR SESIÓN</a></li>
 </ul>
 <a href="#" data-activates="slide-out" class="button-collapse"><i class="material-icons">view_stream</i></a>
 </header>
 <main>
 <!--NOTIFICACIONES-->
 <div class="row">
-	<div class="notificacion col l1 offset-l11 s12 offset-s10">
-		<i class="material-icons">notifications</i>
+	<div class="notificacion col l1 offset-l10 s12 offset-s10">
+		<ul><li><a href=""><i class="material-icons">notifications</i><span class="new badge">4</span></a></li></ul>
 	</div>
 </div>
 <div class="row">
-	<div class="encabezado col l4 offset-l5">
-		<h3>Información General</h3>
+	<div class="encabezado col l4 offset-l3 m4 offset-m1">
+		<p><strong>Información General</strong></p>
 	</div>
 	<!--INFORMACION-->
 	<div class="col l8 offset-l3 m7 offset-m3 s8 offset-s3">
