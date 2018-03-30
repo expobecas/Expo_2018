@@ -24,10 +24,10 @@
 		<a href="#!email"><span class="white-text email">info@ricaldone.edu.sv</span></a>
 	</div>
 	</li>
-	<li><a href="inicio_empresa.php" class="white-text"><i class="material-icons white-text">home</i>Inicio</a></li>
-	<li><a href="casos.php" class="white-text"><i class="material-icons white-text">folder</i>Casos</a></li>
-	<li><a href="becados.php" class="white-text"><i class="material-icons white-text">group</i>Alumnos becados</a></li>
-	<li><a href="#!" class="white-text"><i class="material-icons white-text">close</i>Cerrar Sesión</a></li>
+	<li><a href="inicio_empresa.php" class="white-text"><i class="material-icons white-text">home</i>INICIO</a></li>
+	<li><a href="casos.php" class="white-text"><i class="material-icons white-text">folder</i>CASOS</a></li>
+	<li><a href="becados.php" class="white-text"><i class="material-icons white-text">group</i>ALUMNOS BECADOS</a></li>
+	<li><a href="#!" class="white-text"><i class="material-icons white-text">close</i>CERRAR SESIÓN</a></li>
 </ul>
 <a href="#" data-activates="slide-out" class="button-collapse"><i class="material-icons">view_stream</i></a>
 </header>
